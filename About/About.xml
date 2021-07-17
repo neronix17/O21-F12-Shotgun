@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[O21] F12 Shotgun</name>
+	<author>Neronix17</author>
+	<packageId>neronix17.f12shotgun</packageId>
+	<url></url>
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Just a shotgun</description>
+</ModMetaData>
